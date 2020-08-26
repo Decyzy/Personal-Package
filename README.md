@@ -5,7 +5,7 @@ some are created for personal and useful package
 
 version: 0.2.3
 
-author: YangZhiyu
+author: Zhiyu YANG
 
 author_email:Decyzy@tongji.edu.cn
 
